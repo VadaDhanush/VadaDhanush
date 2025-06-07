@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vada Dhanush Reddy
 - 👀 I’m interested in web development and java programming
 - 🌱 I’m currently learning about java and trying to learn some front end technologies
+- 🌐 Languages: •Telugu •Hindi •English 
 - 📫 How to reach me dhanushjaddu83@gmail.com
 - 😄 Pronouns: he/him/jaddu
 - ⚡ Fun fact: I’ve faced more bugs than a batsman faces bouncers.
